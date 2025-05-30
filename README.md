@@ -1,6 +1,6 @@
-<!-- Banner GIF (Optional) -->
+<!-- GitHub-themed animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Machine Learning Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </p>
 
 # Hi, I'm Soroor Aghapour
@@ -14,8 +14,8 @@ My work focuses on building real-time, hardware-efficient algorithms for medical
 ### ⚙️ Technical Skills
 
 - **Languages:** Python, MATLAB, VHDL, C/C++
-- **Frameworks/Tools:** PyTorch, scikit-learn, Cadence Virtuoso, Vivado, Git
-- **Focus Areas:** Biomedical Signal Processing, Machine Learning, FPGA Design, Embedded Systems
+- **Tools:** PyTorch, scikit-learn, Cadence Virtuoso, Vivado, Git
+- **Domains:** Biomedical Signal Processing, Machine Learning, FPGA Design, Embedded Systems
 
 ---
 
@@ -24,7 +24,7 @@ My work focuses on building real-time, hardware-efficient algorithms for medical
 - Real-time biomedical signal extraction  
 - Low-complexity hardware implementation  
 - ML acceleration on FPGA  
-- Research-to-prototype translation
+- End-to-end system design for healthcare applications
 
 ---
 

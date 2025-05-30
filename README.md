@@ -1,30 +1,30 @@
-<!-- Programming girl animation -->
+<!-- Banner Image: ArtStation artwork by Dhruv Kadam -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Girl Programming GIF" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/011/731/183/large/dhruv-kadam-satyr.jpg" width="600" alt="Girl Programming Artwork by Dhruv Kadam" />
 </p>
 
 # Hi, I'm Soroor Aghapour
 
 I'm a biomedical signal processing and machine learning engineer, currently pursuing my M.Sc. in Integrated Circuit Design at K. N. Toosi University of Technology.
 
-My work focuses on building real-time, hardware-efficient algorithms for medical technologies. I specialize in translating signal processing and ML models into embedded systems using Python, MATLAB, and VHDL.
+I focus on developing real-time, hardware-efficient algorithms for medical applications—translating complex signal processing and ML models into practical, embedded systems using Python, MATLAB, and VHDL.
 
 ---
 
 ### ⚙️ Technical Skills
 
 - **Languages:** Python, MATLAB, VHDL, C/C++
-- **Tools:** PyTorch, scikit-learn, Cadence Virtuoso, Vivado, Git
-- **Domains:** Biomedical Signal Processing, Machine Learning, FPGA Design, Embedded Systems
+- **Tools & Frameworks:** PyTorch, scikit-learn, Cadence Virtuoso, Vivado, Git
+- **Domains:** Biomedical Signal Processing, FPGA Design, Machine Learning, Embedded Systems
 
 ---
 
 ### 📌 Current Focus
 
 - Real-time biomedical signal extraction  
-- Low-complexity hardware implementation  
+- Low-complexity algorithm design  
 - ML acceleration on FPGA  
-- End-to-end system design for healthcare applications
+- End-to-end system prototyping for healthcare devices
 
 ---
 

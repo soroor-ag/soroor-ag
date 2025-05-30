@@ -1,6 +1,6 @@
 <!-- Banner Image: ArtStation artwork by Dhruv Kadam -->
 <p align="center">
-  <img src="https://tenor.com/cWrw4c2Pf1C.gif" />
+  <img src="[https://tenor.com/cWrw4c2Pf1C.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVycTlibXhndTluaHhpczd4dHU5N29hbW5ibndoZmJsaWc4NnBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" />
 </p>
 
 # Hi, I'm Soroor Aghapour

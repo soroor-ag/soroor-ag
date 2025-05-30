@@ -1,6 +1,6 @@
-<!-- GitHub-themed animation -->
+<!-- Programming girl animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Girl Programming GIF" />
 </p>
 
 # Hi, I'm Soroor Aghapour
@@ -30,7 +30,7 @@ My work focuses on building real-time, hardware-efficient algorithms for medical
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/soroor-aghapoor)
+- [LinkedIn](https://www.linkedin.com/in/soroor-aghapoor)  
 - [GitHub](https://github.com/soroor-ag)
 
 ---

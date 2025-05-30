@@ -1,6 +1,6 @@
 <!-- Banner Image: ArtStation artwork by Dhruv Kadam -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/011/731/183/large/dhruv-kadam-satyr.jpg" width="600" alt="Girl Programming Artwork by Dhruv Kadam" />
+  <img src="https://tenor.com/cWrw4c2Pf1C.gif" />
 </p>
 
 # Hi, I'm Soroor Aghapour

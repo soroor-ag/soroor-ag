@@ -1,13 +1,13 @@
-<!-- Banner Image: ArtStation artwork by Dhruv Kadam -->
+<!-- GIF: Coding animation -->
 <p align="center">
-  <img src="[https://tenor.com/cWrw4c2Pf1C.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVycTlibXhndTluaHhpczd4dHU5N29hbW5ibndoZmJsaWc4NnBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVycTlibXhndTluaHhpczd4dHU5N29hbW5ibndoZmJsaWc4NnBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Developer Animation" />
 </p>
 
 # Hi, I'm Soroor Aghapour
 
 I'm a biomedical signal processing and machine learning engineer, currently pursuing my M.Sc. in Integrated Circuit Design at K. N. Toosi University of Technology.
 
-I focus on developing real-time, hardware-efficient algorithms for medical applications—translating complex signal processing and ML models into practical, embedded systems using Python, MATLAB, and VHDL.
+My work focuses on building real-time, hardware-efficient algorithms for medical technologies. I specialize in translating signal processing and ML models into embedded systems using Python, MATLAB, and VHDL.
 
 ---
 

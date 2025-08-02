@@ -1,6 +1,6 @@
 <!-- GIF: Coding animation -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVycTlibXhndTluaHhpczd4dHU5N29hbW5ibndoZmJsaWc4NnBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Developer Animation" />
+  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="500" alt="Developer Animation" />
 </p>
 
 # Hi, I'm Soroor Aghapour
